@@ -1,1 +1,0 @@
-# go-docker-base-image
