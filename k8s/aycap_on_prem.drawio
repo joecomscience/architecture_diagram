@@ -1,4 +1,4 @@
-<mxfile host="f3558a9c-ddae-49bb-9135-22b5169e6f52" modified="2020-08-20T02:21:00.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.48.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="ymlbV4B96IsAFNPYVJsl" version="13.1.3" pages="4">
+<mxfile host="f3558a9c-ddae-49bb-9135-22b5169e6f52" modified="2020-08-20T02:32:43.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.48.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="B0en_-qa_r8ys4cWqK_3" version="13.1.3" pages="4">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="non-prod">
         <mxGraphModel dx="2359" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
@@ -406,7 +406,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="PK9rwcXzAi51bXzIyvJ_" name="non-prod-v2">
-        <mxGraphModel dx="1966" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1766" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="fnk3apqfBqOfbFD33rVF-0"/>
                 <mxCell id="fnk3apqfBqOfbFD33rVF-1" parent="fnk3apqfBqOfbFD33rVF-0"/>
@@ -516,7 +516,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="qqEIZ6kg4P71oQ2270wt" name="non-prod-okd">
-        <mxGraphModel dx="2359" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1211" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="1PJKOn31ZyMe2gF0FyWD-0"/>
                 <mxCell id="1PJKOn31ZyMe2gF0FyWD-1" parent="1PJKOn31ZyMe2gF0FyWD-0"/>
@@ -535,7 +535,7 @@
                 <mxCell id="iPFetoU6Rqcd3AqCRJ2e-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group;rounded=0;glass=0;comic=0;" vertex="1" parent="1PJKOn31ZyMe2gF0FyWD-1">
                     <mxGeometry x="525" y="120" width="150" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="iPFetoU6Rqcd3AqCRJ2e-5" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse ; border: 1px solid rgb(152 , 191 , 34)&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: rgb(167 , 201 , 66) ; color: rgb(255 , 255 , 255)&quot;&gt;&lt;th&gt;Node Type&lt;/th&gt;&lt;th&gt;CPU (Core)&lt;/th&gt;&lt;th&gt;Memory (GB)&lt;/th&gt;&lt;td&gt;&lt;b&gt;Disk (GB)&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Master&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;128&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: rgb(234 , 242 , 211)&quot;&gt;&lt;td&gt;Worker&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;128&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bastion&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td style=&quot;border-collapse: collapse&quot;&gt;128&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(234 , 242 , 212)&quot;&gt;vSphere&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;background-color: rgb(234 , 242 , 212)&quot;&gt;-&lt;/td&gt;&lt;td style=&quot;border-collapse: collapse ; background-color: rgb(234 , 242 , 212)&quot;&gt;-&lt;/td&gt;&lt;td style=&quot;background-color: rgb(234 , 242 , 212)&quot;&gt;512&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;align=center;" vertex="1" parent="1PJKOn31ZyMe2gF0FyWD-1">
+                <mxCell id="iPFetoU6Rqcd3AqCRJ2e-5" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse ; border: 1px solid rgb(152 , 191 , 34)&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: rgb(167 , 201 , 66) ; color: rgb(255 , 255 , 255)&quot;&gt;&lt;th&gt;Node Type&lt;/th&gt;&lt;th&gt;CPU (Core)&lt;/th&gt;&lt;th&gt;Memory (GB)&lt;/th&gt;&lt;td&gt;&lt;b&gt;Disk (GB)&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Master&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;128&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: rgb(234 , 242 , 211)&quot;&gt;&lt;td&gt;Worker&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;128&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bastion&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td style=&quot;border-collapse: collapse&quot;&gt;128&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;background-color: rgb(234 , 242 , 212)&quot;&gt;vSphere&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;background-color: rgb(234 , 242 , 212)&quot;&gt;-&lt;/td&gt;&lt;td style=&quot;border-collapse: collapse ; background-color: rgb(234 , 242 , 212)&quot;&gt;-&lt;/td&gt;&lt;td style=&quot;background-color: rgb(234 , 242 , 212)&quot;&gt;1024&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Infra&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;32&lt;/td&gt;&lt;td&gt;512&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;align=center;" vertex="1" parent="1PJKOn31ZyMe2gF0FyWD-1">
                     <mxGeometry x="440" y="880" width="360" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="iPFetoU6Rqcd3AqCRJ2e-27" value="" style="group" vertex="1" connectable="0" parent="1PJKOn31ZyMe2gF0FyWD-1">
